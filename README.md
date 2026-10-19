@@ -75,5 +75,4 @@ Si deseas contribuir a este proyecto, por favor crea un *fork* del repositorio, 
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
